@@ -2,9 +2,9 @@ body {
   margin: 60px auto;
   width: 70%;
 }
-nav ul, footer ul{
+nav ul, footer ul {
   font-family:'Helvetica', 'Arial', 'San-Serif';
-  padding: 0px
+  padding: 0px;
   list-style: none;
   font-weight: bold;
 }
@@ -19,9 +19,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
-hl {
+h1 {
   font-size: 3em;
-  font-family: 'Helvetica', 'Arial', 'San-Serif';
+  font-family:'Helvetica', 'Arial', 'San-Serif';
 }
 p {
   font-size: 1.5em;
@@ -30,7 +30,7 @@ p {
 }
 footer {
   border-top: 1px solid #d5d5d5;
-  font-size: .8en;
+  font-size: .8em;
 }
 ul.posts {
   margin: 20px auto 40px;
