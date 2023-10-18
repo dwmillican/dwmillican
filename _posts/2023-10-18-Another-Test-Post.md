@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another Test Post with Absolute Path?"
+title: "Another Test Post"
 date: 2023-10-18
 ---
 
