@@ -1,4 +1,4 @@
 name: Dave Millican
 markdown: kramdown
 baseurl: /dwmillican
-permalink: /dwmillican/blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
