@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Initial Blog Test Post"
+title: "Initial Test Post"
 date: 2023-10-17
 ---
 
